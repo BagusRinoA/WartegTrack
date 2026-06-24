@@ -1,4 +1,4 @@
-# WartegTrack -Sistem Informasi Manajemen Produk dan Penjualan Berbasis Website
+# WartegTrack - Sistem Informasi Manajemen Produk dan Penjualan Berbasis Website
 
 ## 🌟 Fitur Utama (Features)
 
